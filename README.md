@@ -9,6 +9,8 @@ Multithreading Library (Collab): https://github.com/RaphaelT1010/ecs150project2.
 
 Unix File System (Collab & messy code): https://github.com/JaiKode/ECS150_Project3.git
 
+Powershell AWS Security Updater: https://github.com/JaiKode/AWS-Powershell-IP-Changer.git
+
 Old High School Kiosk Project for my CS teacher's final (Collab): https://github.com/MathTurner/SIMP2019.git
 
 # Misc. Projects
