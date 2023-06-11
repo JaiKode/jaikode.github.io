@@ -1,2 +1,2 @@
-# jaikode.github.io
+# Jaiden's Projects
 Github website of my projects
